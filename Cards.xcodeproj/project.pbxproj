@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8BE67D832110F5430034319B /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BE67D822110F5430034319B /* Concentration.swift */; };
+		8BEA8DF32113DF5F00346EF3 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEA8DF22113DF5F00346EF3 /* Card.swift */; };
 		8BF30343210E543D003D4663 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF30342210E543D003D4663 /* AppDelegate.swift */; };
 		8BF30345210E543D003D4663 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF30344210E543D003D4663 /* ViewController.swift */; };
 		8BF30348210E543D003D4663 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BF30346210E543D003D4663 /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8BE67D822110F5430034319B /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		8BEA8DF22113DF5F00346EF3 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		8BF3033F210E543D003D4663 /* Cards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF30342210E543D003D4663 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BF30344210E543D003D4663 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 				8BF30370210E6015003D4663 /* Supporting Files */,
 				8BF30344210E543D003D4663 /* ViewController.swift */,
 				8BF30346210E543D003D4663 /* Main.storyboard */,
+				8BE67D822110F5430034319B /* Concentration.swift */,
+				8BEA8DF22113DF5F00346EF3 /* Card.swift */,
 				8BF3034E210E543F003D4663 /* Info.plist */,
 			);
 			path = Cards;
@@ -266,6 +272,8 @@
 			files = (
 				8BF30345210E543D003D4663 /* ViewController.swift in Sources */,
 				8BF30343210E543D003D4663 /* AppDelegate.swift in Sources */,
+				8BE67D832110F5430034319B /* Concentration.swift in Sources */,
+				8BEA8DF32113DF5F00346EF3 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
